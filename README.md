@@ -1,1 +1,1 @@
-# codeeval-java
+# CodeEval Challenges solution in JAVA
